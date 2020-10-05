@@ -1,0 +1,25 @@
+h1 {
+
+
+}
+
+img {
+    border-radius: 500px;
+}
+.blog {
+    border-radius: 0px;
+}
+
+img[src="trees.jpg"]{
+    float: right;
+    height: 200px;
+    width: 250px;
+    padding: 20px;
+}
+
+img[src= "sunset.jpg"]{
+    float: left;
+    height: 200px;
+    width: 250px;
+    padding: 20px;
+}
